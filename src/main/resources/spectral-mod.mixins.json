@@ -1,0 +1,11 @@
+{
+	"required": true,
+	"package": "yaya.spectralmod.mixin",
+	"compatibilityLevel": "JAVA_17",
+	"mixins": [
+		"ExampleMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}

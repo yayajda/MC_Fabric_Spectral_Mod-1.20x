@@ -1,29 +1,32 @@
 {
 	"schemaVersion": 1,
-	"id": "spectral-mod",
+	"id": "spectralmod",
 	"version": "${version}",
 	"name": "Spectral Mod",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "This is a super mod generate with yaya",
 	"authors": [
-		"Me!"
+		"yaya!"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
 		"sources": "https://github.com/FabricMC/fabric-example-mod"
 	},
-	"license": "CC0-1.0",
-	"icon": "assets/spectral-mod/icon.png",
+	"license": "MIT",
+	"icon": "assets/spectralmod/icon.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
 			"yaya.spectralmod.SpectralMod"
+		],
+		"client": [
+			"yaya.spectralmod.SpectralModClient"
 		],
 		"fabric-datagen": [
 			"yaya.spectralmod.SpectralModDataGenerator"
 		]
 	},
 	"mixins": [
-		"spectral-mod.mixins.json"
+		"spectralmod.mixins.json"
 	],
 	"depends": {
 		"fabricloader": ">=0.15.11",

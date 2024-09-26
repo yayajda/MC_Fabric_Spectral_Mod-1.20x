@@ -13,11 +13,11 @@ import yaya.spectralmod.SpectralMod;
 public class ModItems {
 
     //物品注册
-public static final Item SILVER_INGOT = registerItem("silver_ingot" , new Item(new FabricItemSettings()));
+    public static final Item SILVER_INGOT = registerItem("silver_ingot" , new Item(new FabricItemSettings()));
 
-private static void addItemToIngredientTabItemGroup(FabricItemGroupEntries entries){
+    private static void addItemToIngredientTabItemGroup(FabricItemGroupEntries entries){
     entries.add(SILVER_INGOT);
-}
+    }
 
     private static Item registerItem(String name, Item item){
         return Registry.register(Registries.ITEM,new Identifier(SpectralMod.MOD_ID,name), item);

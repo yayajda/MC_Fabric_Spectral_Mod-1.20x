@@ -1,7 +1,8 @@
 {
-  "item.spectralmod.silver_ingot": "银锭"
+  "item.spectralmod.silver_ingot": "银锭",
 
+  "block.spectralmod.silver_block": "银块",
 
-
-
+  "itemgroup.spectral_material_group": "幽冥材料组",
+  "itemgroup.spectral_block_group": "幽冥方块组"
 }

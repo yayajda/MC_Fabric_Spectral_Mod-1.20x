@@ -1,6 +1,9 @@
 {
-  "item.spectralmod.silver_ingot": "Silver Ingot"
+  "item.spectralmod.silver_ingot": "Silver Ingot",
 
 
+  "block.spectralmod.silver_block": "Block of Silver",
 
+  "itemgroup.spectral_material_group": "Spectral Material Group",
+  "itemgroup.spectral_block_group": "Spectral Block Group"
 }

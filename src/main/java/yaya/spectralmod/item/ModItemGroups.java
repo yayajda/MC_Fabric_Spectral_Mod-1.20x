@@ -19,6 +19,12 @@ public class ModItemGroups {
                     entries.add(ModItems.SILVER_INGOT); //add items here to the group
                     entries.add(ModItems.STEEL_INGOT); //add items here to the group
                     entries.add(ModItems.RAW_STEEL); //add items here to the group
+                    entries.add(ModItems.DEEP_SEA_SILVER_INGOT); //add items here to the group
+                    entries.add(ModItems.TITANIUM_INGOT); //add items here to the group
+                    entries.add(ModItems.ADAMANT_INGOT); //add items here to the group
+                    entries.add(ModItems.EDELMAN_INGOT); //add items here to the group
+                    entries.add(ModItems.FLAME_GOLD_INGOT); //add items here to the group
+                    entries.add(ModItems.MITHRIL_INGOT); //add items here to the group
 
 
 
@@ -32,6 +38,14 @@ public class ModItemGroups {
 
                         entries.add(ModBlocks.SILVER_BLOCK); //add items here to the group
                         entries.add(ModBlocks.STEEL_BLOCK);
+                        entries.add(ModBlocks.ADAMANT_ORE);
+                        entries.add(ModBlocks.EDELMAN_ORE);
+                        entries.add(ModBlocks.FLAME_GOLD_ORE);
+                        entries.add(ModBlocks.MITHRIL_ORE);
+                        entries.add(ModBlocks.DEEP_SEE_SILVER_ORE);
+                        entries.add(ModBlocks.TITANIUM_ORE);
+                        entries.add(ModBlocks.MITHRIL_BLOCK);
+                        entries.add(ModBlocks.SILVER_ORE);
 
 
                     }).build());

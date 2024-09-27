@@ -17,7 +17,12 @@ public class ModItems {
     public static final Item SILVER_INGOT = registerItem("silver_ingot" , new Item(new FabricItemSettings()));
     public static final Item STEEL_INGOT = registerItem("steel_ingot" , new Item(new FabricItemSettings().rarity(Rarity.UNCOMMON)));
     public static final Item RAW_STEEL = registerItem("raw_steel" , new Item(new FabricItemSettings()));
-
+    public static final Item ADAMANT_INGOT = registerItem("adamant_ingot" , new Item(new FabricItemSettings()));
+    public static final Item EDELMAN_INGOT = registerItem("edelman_ingot" , new Item(new FabricItemSettings().rarity(Rarity.UNCOMMON)));
+    public static final Item MITHRIL_INGOT = registerItem("mithril_ingot" , new Item(new FabricItemSettings().rarity(Rarity.UNCOMMON)));
+    public static final Item FLAME_GOLD_INGOT = registerItem("flame_gold_ingot" , new Item(new FabricItemSettings()));
+    public static final Item TITANIUM_INGOT = registerItem("titanium_ingot" , new Item(new FabricItemSettings()));
+    public static final Item DEEP_SEA_SILVER_INGOT = registerItem("deep_sea_silver_ingot" , new Item(new FabricItemSettings()));
 
 
     private static Item registerItem(String name, Item item){

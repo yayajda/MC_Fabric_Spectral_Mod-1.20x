@@ -2,10 +2,26 @@
   "item.spectralmod.silver_ingot": "Silver Ingot",
   "item.spectralmod.steel_ingot": "Steel Ingot",
   "item.spectralmod.raw_steel": "Raw Steel",
+  "item.spectralmod.adamant_ingot": "Adamant Ingot",
+  "item.spectralmod.edelman_ingot": "Edelman Ingot",
+  "item.spectralmod.mithril_ingot": "Mithril Ingot",
+  "item.spectralmod.flame_gold_ingot": "Flame Gold Ingot",
+  "item.spectralmod.titanium_ingot": "Titanium Ingot",
+  "item.spectralmod.deep_sea_silver_ingot": "Deep Sea Silver Ingot",
 
 
   "block.spectralmod.silver_block": "Block of Silver",
+  "block.spectralmod.silver_ore": "Silver Ore",
+  "block.spectralmod.mithril_block": "Block of Mithril",
   "block.spectralmod.steel_block": "Block of Steel",
+  "block.spectralmod.adamant_ore": "Adamant Ore",
+  "block.spectralmod.edelman_ore": "Edelman Ore",
+  "block.spectralmod.mithril_ore": "Mithril Ore",
+  "block.spectralmod.titanium_ore": "Titanium Ore",
+  "block.spectralmod.flame_gold_ore": "Flame Gold Ore",
+  "block.spectralmod.deep_see_silver_ore": "Deep See Silver Ore",
+
+
 
   "itemgroup.spectral_material_group": "Spectral Material Group",
   "itemgroup.spectral_block_group": "Spectral Block Group"

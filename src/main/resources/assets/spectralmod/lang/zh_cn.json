@@ -2,9 +2,23 @@
   "item.spectralmod.silver_ingot": "银锭",
   "item.spectralmod.steel_ingot": "钢锭",
   "item.spectralmod.raw_steel": "粗钢",
+  "item.spectralmod.adamant_ingot": "精金锭",
+  "item.spectralmod.edelman_ingot": "爱德曼锭",
+  "item.spectralmod.mithril_ingot": "秘银锭",
+  "item.spectralmod.flame_gold_ingot": "炎金锭",
+  "item.spectralmod.titanium_ingot": "钛晶锭",
+  "item.spectralmod.deep_sea_silver_ingot": "深海沉银锭",
 
   "block.spectralmod.silver_block": "银块",
+  "block.spectralmod.silver_ore": "银矿石",
   "block.spectralmod.steel_block": "钢块",
+  "block.spectralmod.mithril_block": "秘银块",
+  "block.spectralmod.adamant_ore": "精金矿石",
+  "block.spectralmod.edelman_ore": "爱德曼矿石",
+  "block.spectralmod.mithril_ore": "秘银矿石",
+  "block.spectralmod.titanium_ore": "钛金矿石",
+  "block.spectralmod.flame_gold_ore": "炎金矿石",
+  "block.spectralmod.deep_see_silver_ore": "深海沉银矿石",
 
   "itemgroup.spectral_material_group": "幽冥材料组",
   "itemgroup.spectral_block_group": "幽冥方块组"

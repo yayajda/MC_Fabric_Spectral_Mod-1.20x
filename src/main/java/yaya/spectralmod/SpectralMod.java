@@ -16,8 +16,6 @@ public class SpectralMod implements ModInitializer {
 	public void onInitialize() {
 		ModItems.registerModItems();
 		ModBlocks.registerModBlocks();
-
 		ModItemGroups.registerItemGroups();
-
 	}
 }

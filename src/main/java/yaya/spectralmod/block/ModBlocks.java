@@ -17,6 +17,14 @@ public class ModBlocks {
     public static final Block SILVER_BLOCK = registerBlock("silver_block" ,
             new Block(FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK)));
 
+    public static final Block STEEL_BLOCK = registerBlock("steel_block" ,
+            new Block(FabricBlockSettings.copyOf(Blocks.IRON_BLOCK)));
+
+
+
+
+
+
     private static Block registerBlock(String name, Block block){
         registerBlockItem(name,block);
         return Registry.register(Registries.BLOCK, new Identifier(SpectralMod.MOD_ID, name), block);

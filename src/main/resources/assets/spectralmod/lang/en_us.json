@@ -1,8 +1,11 @@
 {
   "item.spectralmod.silver_ingot": "Silver Ingot",
+  "item.spectralmod.steel_ingot": "Steel Ingot",
+  "item.spectralmod.raw_steel": "Raw Steel",
 
 
   "block.spectralmod.silver_block": "Block of Silver",
+  "block.spectralmod.steel_block": "Block of Steel",
 
   "itemgroup.spectral_material_group": "Spectral Material Group",
   "itemgroup.spectral_block_group": "Spectral Block Group"

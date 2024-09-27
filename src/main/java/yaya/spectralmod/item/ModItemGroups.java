@@ -17,6 +17,8 @@ public class ModItemGroups {
                 .icon(() -> new ItemStack(ModItems.SILVER_INGOT)).entries((displayContext, entries) -> {
 
                     entries.add(ModItems.SILVER_INGOT); //add items here to the group
+                    entries.add(ModItems.STEEL_INGOT); //add items here to the group
+                    entries.add(ModItems.RAW_STEEL); //add items here to the group
 
 
 
@@ -29,7 +31,7 @@ public class ModItemGroups {
                     .icon(() -> new ItemStack(ModBlocks.SILVER_BLOCK)).entries((displayContext, entries) -> {
 
                         entries.add(ModBlocks.SILVER_BLOCK); //add items here to the group
-
+                        entries.add(ModBlocks.STEEL_BLOCK);
 
 
                     }).build());

@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smelting",
+    "category": "misc",
+    "cookingtime": 125,
+    "experience": 1.0,
+    "group": "titanium_ingot",
+    "ingredient": {
+        "item": "spectralmod:titanium_ore"
+    },
+    "result": "spectralmod:titanium_ingot"
+}
+

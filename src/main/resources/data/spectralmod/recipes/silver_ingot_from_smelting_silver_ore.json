@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smelting",
+    "category": "misc",
+    "cookingtime": 125,
+    "experience": 1.0,
+    "group": "silver_ingot",
+    "ingredient": {
+        "item": "spectralmod:silver_ore"
+    },
+    "result": "spectralmod:silver_ingot"
+}
+

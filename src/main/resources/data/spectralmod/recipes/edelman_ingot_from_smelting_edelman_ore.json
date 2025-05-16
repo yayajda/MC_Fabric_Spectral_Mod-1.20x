@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smelting",
+    "category": "misc",
+    "cookingtime": 125,
+    "experience": 1.0,
+    "group": "edelman_ingot",
+    "ingredient": {
+        "item": "spectralmod:edelman_ore"
+    },
+    "result": "spectralmod:edelman_ingot"
+}
+

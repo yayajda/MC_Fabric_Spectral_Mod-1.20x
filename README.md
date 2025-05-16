@@ -1,4 +1,4 @@
-# Spectral Mod（光谱模组）
+# Spectral Mod（幽冥模组）
 
 这是一个为Minecraft 1.20.1开发的Fabric模组，添加了各种新的金属、矿石和方块。
 
@@ -77,8 +77,8 @@
 
 本模组添加了两个物品组来分类显示所有新增内容：
 
-1. **光谱材料组（Spectral Material Group）** - 包含所有新增的金属锭
-2. **光谱方块组（Spectral Block Group）** - 包含所有新增的矿石和金属块
+1. **幽冥材料组（Spectral Material Group）** - 包含所有新增的金属锭
+2. **幽冥方块组（Spectral Block Group）** - 包含所有新增的矿石和金属块
 
 ## 项目代码结构
 
@@ -150,6 +150,11 @@
 ## 作者
 
 - yaya!
+
+## 贡献者
+
+- yaya!
+
 
 ## 联系方式
 

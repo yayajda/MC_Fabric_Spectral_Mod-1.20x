@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smelting",
+    "category": "misc",
+    "cookingtime": 125,
+    "experience": 1.0,
+    "group": "mithril_ingot",
+    "ingredient": {
+        "item": "spectralmod:mithril_ore"
+    },
+    "result": "spectralmod:mithril_ingot"
+}
+

@@ -1,0 +1,27 @@
+{
+  "feature": "spectralmod:edelman_ore",
+  "placement": [
+    {
+      "type": "minecraft:rarity_filter",
+      "chance": 6
+    },
+    {
+      "type": "minecraft:in_square"
+    },
+    {
+      "type": "minecraft:height_range",
+      "height": {
+        "type": "minecraft:trapezoid",
+        "max_inclusive": {
+          "absolute": -20
+        },
+        "min_inclusive": {
+          "absolute": -90
+        }
+      }
+    },
+    {
+      "type": "minecraft:biome"
+    }
+  ]
+}

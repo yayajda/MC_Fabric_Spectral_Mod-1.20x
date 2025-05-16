@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smelting",
+    "category": "misc",
+    "cookingtime": 125,
+    "experience": 1.0,
+    "group": "flame_gold_ingot",
+    "ingredient": {
+        "item": "spectralmod:flame_gold_ore"
+    },
+    "result": "spectralmod:flame_gold_ingot"
+}
+

@@ -7,6 +7,7 @@ import org.slf4j.LoggerFactory;
 import yaya.spectralmod.block.ModBlocks;
 import yaya.spectralmod.item.ModItemGroups;
 import yaya.spectralmod.item.ModItems;
+import yaya.spectralmod.world.gen.ModOreGeneration;
 
 public class SpectralMod implements ModInitializer {
 	public static final String MOD_ID = "spectralmod";
@@ -17,5 +18,10 @@ public class SpectralMod implements ModInitializer {
 		ModItems.registerModItems();
 		ModBlocks.registerModBlocks();
 		ModItemGroups.registerItemGroups();
+		
+		// 注册矿石生成
+		ModOreGeneration.generateOres(); // 已修复配置，重新开启
+		
+		LOGGER.info("光谱模组初始化完成！");
 	}
 }

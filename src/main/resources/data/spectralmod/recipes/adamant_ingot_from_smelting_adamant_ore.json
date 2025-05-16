@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smelting",
+    "category": "misc",
+    "cookingtime": 125,
+    "experience": 1.0,
+    "group": "adamant_ingot",
+    "ingredient": {
+        "item": "spectralmod:adamant_ore"
+    },
+    "result": "spectralmod:adamant_ingot"
+}
+

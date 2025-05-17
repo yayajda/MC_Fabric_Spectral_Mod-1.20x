@@ -18,6 +18,7 @@ public class SpectralMod implements ModInitializer {
 		ModItems.registerModItems();
 		ModBlocks.registerModBlocks();
 		ModItemGroups.registerItemGroups();
+		ModCustomTrades.registerCustomTrades();
 		
 		// 注册矿石生成
 		ModOreGeneration.generateOres(); // 已修复配置，重新开启

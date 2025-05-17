@@ -7,6 +7,7 @@ import org.slf4j.LoggerFactory;
 import yaya.spectralmod.block.ModBlocks;
 import yaya.spectralmod.item.ModItemGroups;
 import yaya.spectralmod.item.ModItems;
+import yaya.spectralmod.util.ModCustomTrades;
 import yaya.spectralmod.world.gen.ModOreGeneration;
 
 public class SpectralMod implements ModInitializer {
